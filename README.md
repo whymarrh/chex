@@ -1,4 +1,5 @@
-#Chex#
+Chex
+====
 
 A terminal hex editor with vim-like key bindings. To build and run, just do the following:
 
